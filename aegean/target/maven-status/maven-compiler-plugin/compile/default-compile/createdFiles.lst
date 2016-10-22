@@ -1,0 +1,14 @@
+com\subbu\aegean\model\Product.class
+com\subbu\aegean\dao\UserDAOImpl.class
+com\subbu\aegean\dao\UserDAO.class
+com\subbu\aegean\model\Supplier.class
+com\subbu\aegean\dao\SupplierDAOImpl.class
+com\subbu\aegean\dao\ProductDAOImpl.class
+com\subbu\aegean\model\User.class
+com\subbu\aegean\config\ApplicationContextConfig.class
+com\subbu\aegean\dao\CategoryDAO.class
+com\subbu\aegean\dao\ProductDAO.class
+com\subbu\aegean\App.class
+com\subbu\aegean\dao\SupplierDAO.class
+com\subbu\aegean\dao\CategoryDAOImpl.class
+com\subbu\aegean\model\Category.class
